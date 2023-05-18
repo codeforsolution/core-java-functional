@@ -6,7 +6,7 @@ import com.codeforsolution.java.functional.impl.BikeImpl;
 
 /**
  * @author codeforsolution
- *
+ * @version 1.0
  */
 public class FunInterfaceTest {
 
