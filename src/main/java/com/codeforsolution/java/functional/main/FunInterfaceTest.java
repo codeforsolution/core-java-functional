@@ -3,6 +3,11 @@ package com.codeforsolution.java.functional.main;
 import com.codeforsolution.java.functional.Bike;
 import com.codeforsolution.java.functional.impl.BikeImpl;
 
+
+/**
+ * @author codeforsolution
+ *
+ */
 public class FunInterfaceTest {
 
 	public static void main(String[] args) {
